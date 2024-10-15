@@ -1,4 +1,4 @@
-// src/wallet.rs
+
 use ic_cdk::export::Principal;
 use ic_cdk_macros::{update, query};
 use crate::token_contract::{transfer, balance_of};
